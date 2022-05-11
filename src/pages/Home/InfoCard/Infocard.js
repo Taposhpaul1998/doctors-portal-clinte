@@ -6,7 +6,7 @@ import Info from './Info';
 
 const Infocard = () => {
     return (
-        <div className='grid grid-cols-1 lg:grid-cols-3 gap-5'>
+        <div className='grid grid-cols-1 lg:grid-cols-3 gap-5 mb-10'>
             <Info bgclass="bg-gradient-to-r from-secondary to-primary" detels="Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, explicabo." name={"Opening houer"} img={clock}></Info>
             <Info bgclass="bg-accent" detels="Tejgown nakhal para , Dhaka, Bangladesh" name={"Visit our location"} img={marker}></Info>
             <Info bgclass="bg-gradient-to-r from-secondary to-primary" detels="+00012345678" name={"Contact us now"} img={phone}></Info>
