@@ -10,7 +10,7 @@ const Banner = () => {
                 <div className='pr-10'>
                     <h1 class="text-5xl font-bold">Your New Smile Starts Here</h1>
                     <p class="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
-                    <Mainbtn></Mainbtn>
+                    <Mainbtn>Get Started</Mainbtn>
                 </div>
             </div>
         </div>

@@ -12,7 +12,7 @@ const Care = () => {
                 <div>
                     <h2 className='font-bold text-5xl text-accent mb-6 mt-16'>Exceptional Dental Care, on Your Terms</h2>
                     <p className='text-accent mb-10'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, molestias. Cumque fugit omnis dolore tempora aliquid debitis officiis necessitatibus magnam?</p>
-                    <Mainbtn></Mainbtn>
+                    <Mainbtn>Get Started</Mainbtn>
                 </div>
             </div>
         </section>
