@@ -10,11 +10,11 @@ const Contactform = () => {
             </div>
             <div className='py-10'>
                 <form>
-                    <input type="text" placeholder="Email Address" class="input input-bordered input-sm w-full max-w-xs mb-4" />
+                    <input type="text" placeholder="Email Address" className="input input-bordered input-sm w-full max-w-xs mb-4" />
                     <br />
-                    <input type="text" placeholder="Subjet" class="input input-bordered input-sm w-full max-w-xs mb-4" />
+                    <input type="text" placeholder="Subjet" className="input input-bordered input-sm w-full max-w-xs mb-4" />
                     <br />
-                    <textarea class="textarea textarea-bordered w-full max-w-xs mb-4 " placeholder="Bio"></textarea>
+                    <textarea className="textarea textarea-bordered w-full max-w-xs mb-4 " placeholder="Bio"></textarea>
                     <br />
                     <Mainbtn> Submit</Mainbtn>
                 </form>

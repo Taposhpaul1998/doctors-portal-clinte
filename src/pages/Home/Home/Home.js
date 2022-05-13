@@ -5,6 +5,7 @@ import Care from '../Care/Care';
 import Contactform from '../ContactForm/Contactform';
 import Infocard from '../InfoCard/Infocard';
 import Services from '../Services/Services/Services';
+import Footer from '../Shared/Footer/Footer';
 import Testimonials from '../Testimonials/Testimonials';
 
 const Home = () => {
@@ -17,6 +18,7 @@ const Home = () => {
             <Appoinment></Appoinment>
             <Testimonials></Testimonials>
             <Contactform></Contactform>
+            <Footer></Footer>
         </>
     );
 };
